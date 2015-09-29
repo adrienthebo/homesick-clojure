@@ -1,0 +1,21 @@
+[submodule "home/.vim/bundle/vim-eastwood"]
+	path = home/.vim/bundle/vim-eastwood
+	url = https://github.com/venantius/vim-eastwood
+[submodule "home/.vim/bundle/vim-salve"]
+	path = home/.vim/bundle/vim-salve
+	url = https://github.com/tpope/vim-salve
+[submodule "home/.vim/bundle/vim-sexp-mappings-for-regular-people"]
+	path = home/.vim/bundle/vim-sexp-mappings-for-regular-people
+	url = https://github.com/tpope/vim-sexp-mappings-for-regular-people
+[submodule "home/.vim/bundle/vim-sexp"]
+	path = home/.vim/bundle/vim-sexp
+	url = https://github.com/guns/vim-sexp
+[submodule "home/.vim/bundle/rainbow_parentheses"]
+	path = home/.vim/bundle/rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim
+[submodule "home/.vim/bundle/vim-fireplace"]
+	path = home/.vim/bundle/vim-fireplace
+	url = https://github.com/tpope/vim-fireplace
+[submodule "home/.vim/bundle/vim-clojure-static"]
+	path = home/.vim/bundle/vim-clojure-static
+	url = https://github.com/guns/vim-clojure-static
