@@ -6,7 +6,8 @@
 
         :dependencies [[rubydoc "0.4.0"]
                        [clj-stacktrace "0.2.8"]
-                       [spyscope "0.1.5"]]
+                       [spyscope "0.1.5"]
+                       [jonase/eastwood "0.2.1" :exclusions [org.clojure/clojure]]]
 
         :injections [(require 'spyscope.core)
                      (let [orig (ns-resolve (doto 'clojure.stacktrace require) 'print-cause-trace)
